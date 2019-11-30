@@ -20,4 +20,4 @@ The program is written in python3 and utilizes the OpenCV library.
 6.	Convert the binary integer into decimal.
 
 ### Execute
-python3 visible_light_communication.py <filename>
+python3 visible_light_communication.py \<filename>
